@@ -448,3 +448,7 @@ footer {
 .btn:active,
 .btn:focus {
   outline: none; }
+
+.img-circle {
+    border-radius: 30%;
+}
